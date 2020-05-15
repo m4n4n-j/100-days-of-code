@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: May 15, 2020 (Example 1)
-<! --- ##### (delete me or comment me out)
+### Day 1: May 15, 2020 
 
 **Today's Progress**: Started with 30 days of code on hacckerank,currently on day 8. Target to finish it off this week
 
