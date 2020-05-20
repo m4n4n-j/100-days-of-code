@@ -31,3 +31,14 @@ Also found some intresting content and resources for cc and stl in cpp. Link att
 **Link(s) to work**
 1. https://github.com/lnishan/awesome-competitive-programming :: One stop link for all the next ones.
 2. https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/
+
+### Day 3: May 20, 2020 
+
+**Today's Progress**: Started of with codemonk from hackerearth. The notes look good, worth completing ones , also there is a fair selection of problems so i guess ill be hooked .
+
+**Thoughts**  The speed is too slow dude,, barely 2 sections from 1 chapter in more than an hour. I must increase my speed. Though I think it will proceed gradually but i dont have enough time to wait for it to happen, consicous efforts needed !!. Also the course from prateek narang, I think i will solve 1 problem a day.
+
+**Link(s) to work**
+1.https://www.hackerearth.com/practice/codemonk/
+
+
