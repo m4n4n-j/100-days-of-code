@@ -41,4 +41,12 @@ Also found some intresting content and resources for cc and stl in cpp. Link att
 **Link(s) to work**
 1.https://www.hackerearth.com/practice/codemonk/
 
+### Day 4: May 21, 2020
 
+**Today's Progress**: Working on codemonk, started making notes of intresting things. Thinking on devoting more time.
+
+### Day 5: May 22, 2020 
+
+**Today's Progress**: Level 1 codemonk finished, will increse speed now.
+
+**Thoughts**: 
