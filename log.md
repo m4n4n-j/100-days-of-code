@@ -50,3 +50,14 @@ Also found some intresting content and resources for cc and stl in cpp. Link att
 **Today's Progress**: Level 1 codemonk finished, will increse speed now.
 
 **Thoughts**: 
+
+--=======================================================================================================
+**Its 14-06-2020. I failed on the first attempt, this will be my last. Starting again with Day - 1.**
+
+### Day 1: June 14, 2020
+**Today's Progress** : 
+**Thoughts** : 
+
+
+
+
