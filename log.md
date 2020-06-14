@@ -22,7 +22,7 @@
 
 **Today's Progress**:hackerrank's 30 days after giving it sufficient time feels not well made for c++.
 So Today i began a hunt for resources.. Found really awesome contents from books to websites etc. But did not do ny real coding.
-But from tommorow, I'll be starting with HackerEarth Codemonk. From thier I'll be either taking up Hackerrank DS or The competitive Programming book..
+But from tommorow, I'll be starting with HackerEarth Codemonk. From there I'll be either taking up Hackerrank DS or The competitive Programming book..
 Also found some intresting content and resources for cc and stl in cpp. Link attached.
 
 **Thoughts**  I think I should prioritize coding more and solve atleast 5-6 probles/day instead of giving 1 hour everyday regardless of the amount of work done. So I commit to complete code monk in the next 3 days.
@@ -34,9 +34,9 @@ Also found some intresting content and resources for cc and stl in cpp. Link att
 
 ### Day 3: May 20, 2020 
 
-**Today's Progress**: Started of with codemonk from hackerearth. The notes look good, worth completing ones , also there is a fair selection of problems so i guess ill be hooked .
+**Today's Progress**: Started of with codemonk from hackerearth. The notes look good, worth completing once , also there is a fair selection of problems so i guess i'll be hooked .
 
-**Thoughts**  The speed is too slow dude,, barely 2 sections from 1 chapter in more than an hour. I must increase my speed. Though I think it will proceed gradually but i dont have enough time to wait for it to happen, consicous efforts needed !!. Also the course from prateek narang, I think i will solve 1 problem a day.
+**Thoughts**  The speed is too slow dude, barely 2 sections from 1 chapter in more than an hour. I must increase my speed. Though I think it will proceed gradually but i dont have enough time to wait for it to happen, consicous efforts needed !!. Also the course from prateek narang, I think i will solve 1 problem a day.
 
 **Link(s) to work**
 1.https://www.hackerearth.com/practice/codemonk/
