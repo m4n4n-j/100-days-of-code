@@ -51,12 +51,24 @@ Also found some intresting content and resources for cc and stl in cpp. Link att
 
 **Thoughts**: 
 
-=========================================================================
+============================================================================
 **Its 14-06-2020. I failed on the first attempt, this will be my last. Starting again with Day - 1.**
 
 ### Day 1: June 14, 2020
-**Today's Progress** : 
+**Today's Progress** : 2 stars on hackerrank
 **Thoughts** : 
+
+### Day 2: June 15, 2020
+**Today's Progress** : 3 stars
+**Thoughts** : 
+
+### Day 3: June 16, 2020
+**Today's Progress** : 3.5 stars :p
+**Thoughts** : 
+
+### Day 4: June 17, 2020
+**Today's Progress** : 4 stars finally !!
+**Thoughts** : letsss dooo thisssss!!!!!!!!!!!!!!1
 
 
 
